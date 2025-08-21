@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIydnUydG9mZDc1ZTJ2ZDlnZjF5dWd3bDY2c2k4Z3A1dWI4cjBmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yrlsy7DYn5w0obvSl0/giphy.gif"  />
 
 ###
 
